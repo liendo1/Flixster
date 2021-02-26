@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".DetailActivity"
+    android:background="@color/black"
     android:orientation="vertical">
 
     <com.google.android.youtube.player.YouTubePlayerView
@@ -16,7 +17,10 @@
 
     <TextView
         android:id="@+id/tvTitle"
+        android:textColor="@color/white"
         android:layout_width="match_parent"
+        android:fontFamily="sans-serif"
+        android:textStyle="normal|bold|italic"
         android:layout_height="wrap_content"
         android:textSize="32sp"
         tools:text="it chapter two" />
@@ -32,6 +36,9 @@
 
     <TextView
         android:id="@+id/tvOverview"
+        android:textColor="@color/white"
+        android:fontFamily="sans-serif"
+        android:textStyle="normal|bold|italic"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         tools:text="27 years after overcoming the malevoltent supernatural entity pennywise the former memeber of the losers clucb who have grown up and moved away from derry are brouight back togereher bya devsdtating phone call" />
