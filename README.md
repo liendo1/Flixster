@@ -55,8 +55,7 @@ Describe any challenges encountered while building the app.
 <img src="flixster.gif" width=250><br>
 
 ### Notes
-It was difficult to understand how to pass the data from the json to the adapter but the walkthrough video helped a lot in explaning how it works.
-
+the most diffuclt for me was to understand how JSONobject can be extracted and be use in the youtube player
 ### Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
