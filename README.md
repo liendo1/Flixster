@@ -21,7 +21,7 @@
 
 
 
-<img src="part two.gif" width=250><br>
+<img src="" width=250><br>
 
 ### Notes
 
